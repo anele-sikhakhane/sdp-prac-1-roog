@@ -8,6 +8,7 @@ namespace Roog
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("g18s6106 only plays mk11 & minecraft");
+            Console.WriteLine("oh my");
         }
     }
 }
